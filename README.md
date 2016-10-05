@@ -1,6 +1,8 @@
 # hello-world
 
 12345
-mnbvc
-qwert
+mnbvc - modifying this line
+
+Deleting the line above^
 more changes...
+adding this line on the end
